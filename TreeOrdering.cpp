@@ -2,9 +2,9 @@
 // Purpose: The objective of this code is to convert the input values of a general tree
 // into inorder, postorder, and preorder traversals.
 // Authors: 
-//   - Pelinsu Kaleli
-//   - Bulut Demir
-//   - Umut Boray Demir
+//   - Pelinsu Kaleli - Preorder Traversal
+//   - Bulut Demir - Inorder Traversal
+//   - Umut Boray Demir - Postorder Traversal
 //------------------------------------------------------
 
 #include <iostream>
